@@ -40713,8 +40713,8 @@ html:not(.lt-ie10) .not-animated {
 .owl-carousel .owl-item {
   position: relative;
   min-height: 1px;
-  float: left;
-  -webkit-backface-visibility: hidden;
+
+
   -webkit-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -46137,8 +46137,26 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 }
 
 my-animation-right {
-  visibility: visible; 
-  animation-delay: 0.2s; 
+  visibility: visible;
+  animation-delay: 0.2s;
   animation-name: fadeInRight;
-  
+
+}
+
+.owl-carousel .owl-stage {
+  display: flex;
+  align-items: center;
+}
+
+.thumbnail-classic-caption {
+  position: absolute;
+  top: 50%;
+  left: 15px;
+  right: 15px;
+  z-index: 9;
+  padding: 12px;
+  margin-bottom: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
