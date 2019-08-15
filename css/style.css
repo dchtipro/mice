@@ -34,7 +34,7 @@ section {
 
 body {
   margin: 0;
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.71429;
@@ -42,6 +42,8 @@ body {
   text-align: left;
   background-color: #fff;
 }
+
+
 
 [tabindex="-1"]:focus {
   outline: 0 !important;
@@ -5948,7 +5950,7 @@ button.close {
   z-index: 999;
   display: block;
   margin: 0;
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.71429;
@@ -6073,7 +6075,7 @@ button.close {
   z-index: 1060;
   display: block;
   max-width: 276px;
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.71429;
@@ -10405,7 +10407,7 @@ body {
   -webkit-font-smoothing: subpixel-antialiased;
   font-size: 14px;
   line-height: 1.71429;
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: 400;
   letter-spacing: .05em;
 }
@@ -10468,7 +10470,7 @@ hr.gray {
 }
 
 .font-default {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
 }
 
 h1,
@@ -10759,7 +10761,7 @@ h6,
 }
 
 .header-lighter {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: 400;
   text-transform: none;
 }
@@ -10806,7 +10808,7 @@ small,
 }
 
 .large {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-size: 16px;
 }
 
@@ -11094,7 +11096,7 @@ code {
 
 .link-waypoint {
   text-transform: uppercase;
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: 600;
   letter-spacing: 0.12em;
   color: #4b4b4b;
@@ -11290,7 +11292,7 @@ strong {
 
 .btn {
   padding: 12px 42px;
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: 900;
   line-height: 2;
@@ -12456,7 +12458,7 @@ strong {
 }
 
 .thumbnail-subtitle {
-  font: 700 14px "Lato", Helvetica, Arial, sans-serif;
+  font: 700 14px "Roboto", Helvetica, Arial, sans-serif;
   line-height: 1.2;
   letter-spacing: 0.05em;
   color: #ff5733;
@@ -12873,7 +12875,7 @@ strong {
 }
 
 .thumbnail-minimal-subtitle {
-  font: 500 14px/24px "Lato", Helvetica, Arial, sans-serif;
+  font: 500 14px/24px "Roboto", Helvetica, Arial, sans-serif;
   letter-spacing: 0;
   color: #4b4b4b;
 }
@@ -12960,7 +12962,7 @@ strong {
 }
 
 .thumbnail-steve-title {
-  font: 700 28px "Lato", Helvetica, Arial, sans-serif;
+  font: 700 28px "Roboto", Helvetica, Arial, sans-serif;
   line-height: 1.2;
   text-transform: uppercase;
   color: #ff5733;
@@ -13092,7 +13094,7 @@ strong {
 .thumbnail-modern-title-left {
   position: relative;
   top: 3px;
-  font: 900 24px "Lato", Helvetica, Arial, sans-serif;
+  font: 900 24px "Roboto", Helvetica, Arial, sans-serif;
   line-height: 1.2;
   text-align: center;
   letter-spacing: .075em;
@@ -13126,7 +13128,7 @@ strong {
   display: block;
   width: 100%;
   padding: 12px 30px;
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-size: 13px;
   font-weight: 900;
   line-height: 2;
@@ -13241,7 +13243,7 @@ strong {
 .thumbnail-ruby-title {
   display: inline-block;
   position: relative;
-  font: 900 24px "Lato", Helvetica, Arial, sans-serif;
+  font: 900 24px "Roboto", Helvetica, Arial, sans-serif;
   letter-spacing: 0.075em;
   color: transparent;
   padding: 20px 0;
@@ -13508,7 +13510,7 @@ strong {
 }
 
 .thumbnail-zoe-header {
-  font: 900 14px "Lato", Helvetica, Arial, sans-serif;
+  font: 900 14px "Roboto", Helvetica, Arial, sans-serif;
   line-height: 1.2;
   letter-spacing: .075em;
   text-transform: uppercase;
@@ -15407,7 +15409,7 @@ textarea.form-input {
   height: 52px;
   padding: 10px 20px;
   border: 1px solid;
-  font: 700 14px/24px "Lato", Helvetica, Arial, sans-serif;
+  font: 700 14px/24px "Roboto", Helvetica, Arial, sans-serif;
   vertical-align: middle;
 }
 
@@ -15435,7 +15437,7 @@ textarea.form-input {
 
 .pagination-custom li:first-child a,
 .pagination-custom li:last-child a {
-  font: 700 12px "Lato", Helvetica, Arial, sans-serif;
+  font: 700 12px "Roboto", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   letter-spacing: .2em;
 }
@@ -16707,7 +16709,7 @@ textarea.form-input {
 }
 
 .post-news-time {
-  font: 700 30px "Lato", Helvetica, Arial, sans-serif;
+  font: 700 30px "Roboto", Helvetica, Arial, sans-serif;
   line-height: 1.2;
   text-transform: uppercase;
   text-align: center;
@@ -16828,7 +16830,7 @@ textarea.form-input {
   width: auto;
   text-align: center;
   padding: 10px;
-  font: 700 30px "Lato", Helvetica, Arial, sans-serif;
+  font: 700 30px "Roboto", Helvetica, Arial, sans-serif;
   line-height: 1.2;
   text-transform: uppercase;
   color: #fff;
@@ -16980,7 +16982,7 @@ textarea.form-input {
 }
 
 .comment-title {
-  font: 700 16px "Lato", Helvetica, Arial, sans-serif;
+  font: 700 16px "Roboto", Helvetica, Arial, sans-serif;
   line-height: 1.3;
   letter-spacing: 0.05em;
   color: #151515;
@@ -18019,7 +18021,7 @@ blockquote .small:before {
 }
 
 .quote-preview q {
-  font: 400 18px/30px "Lato", Helvetica, Arial, sans-serif;
+  font: 400 18px/30px "Roboto", Helvetica, Arial, sans-serif;
   color: #363d41;
 }
 
@@ -18300,7 +18302,7 @@ blockquote .small:before {
 }
 
 .quote-classic-preview .caption {
-  font: 400 12px/20px "Lato", Helvetica, Arial, sans-serif;
+  font: 400 12px/20px "Roboto", Helvetica, Arial, sans-serif;
   color: #4b4b4b;
   letter-spacing: 0;
 }
@@ -18575,13 +18577,13 @@ h5.box-minimal-title+.box-minimal-text {
 }
 
 .counter-box .counter {
-  font: 900 45px "Lato", Helvetica, Arial, sans-serif;
+  font: 900 45px "Roboto", Helvetica, Arial, sans-serif;
   line-height: 1;
   text-transform: uppercase;
 }
 
 .counter-box .counter-box-header {
-  font: 400 12px/24px "Lato", Helvetica, Arial, sans-serif;
+  font: 400 12px/24px "Roboto", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
 }
 
@@ -18658,7 +18660,7 @@ h5.box-minimal-title+.box-minimal-text {
 }
 
 .counter-box-bold .counter-box-header {
-  font: 400 14px "Lato", Helvetica, Arial, sans-serif;
+  font: 400 14px "Roboto", Helvetica, Arial, sans-serif;
   letter-spacing: 0;
   text-transform: uppercase;
 }
@@ -18735,7 +18737,7 @@ h5.box-minimal-title+.box-minimal-text {
 }
 
 .counter-box-minimal-title {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
 }
 
 *+.counter-box-minimal-title {
@@ -18815,7 +18817,7 @@ h5.box-minimal-title+.box-minimal-text {
 }
 
 .box-profile-description {
-  font: 500 16px "Lato", Helvetica, Arial, sans-serif;
+  font: 500 16px "Roboto", Helvetica, Arial, sans-serif;
   line-height: 1.2;
   letter-spacing: 0;
   color: #8673c7;
@@ -19013,7 +19015,7 @@ h5.box-minimal-title+.box-minimal-text {
 }
 
 .box-cta {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: 700;
   letter-spacing: 0;
   line-height: 1;
@@ -21284,7 +21286,7 @@ h5.box-minimal-title+.box-minimal-text {
 
 ul,
 ol {
-  list-style: none;
+  list-style: circle;
   padding: 0;
   margin: 0;
 }
@@ -21492,7 +21494,7 @@ dt {
 }
 
 .terms-list-uppercase dt {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-size: 16px;
   font-weight: 500;
   text-transform: uppercase;
@@ -21545,7 +21547,7 @@ dt {
 .marked-list>li {
   position: relative;
   padding-left: 25px;
-  font: 400 14px/24px "Lato", Helvetica, Arial, sans-serif;
+  font: 400 14px/24px "Roboto", Helvetica, Arial, sans-serif;
   color: #151515;
   text-align: left;
 }
@@ -21602,7 +21604,7 @@ dt {
 .ordered-list li {
   position: relative;
   padding-left: 25px;
-  font: 400 14px/24px "Lato", Helvetica, Arial, sans-serif;
+  font: 400 14px/24px "Roboto", Helvetica, Arial, sans-serif;
   color: #151515;
 }
 
@@ -21622,7 +21624,7 @@ dt {
 }
 
 .list-bold>li {
-  font: 700 16px "Lato", Helvetica, Arial, sans-serif;
+  font: 700 16px "Roboto", Helvetica, Arial, sans-serif;
   color: #2b2c2f;
 }
 
@@ -25617,7 +25619,7 @@ h3+.table-product-shop {
   content: "\f1eb";
 }
 
-.fa-calculator:before {
+.fa-calcuRobotor:before {
   content: "\f1ec";
 }
 
@@ -27504,7 +27506,7 @@ h3+.table-product-shop {
   content: "\f1e1";
 }
 
-.mdi-calculator:before {
+.mdi-calcuRobotor:before {
   content: "\f1e2";
 }
 
@@ -28600,7 +28602,7 @@ h3+.table-product-shop {
   content: "\f2f3";
 }
 
-.mdi-escalator:before {
+.mdi-escaRobotor:before {
   content: "\f2f4";
 }
 
@@ -41182,7 +41184,7 @@ html:not(.lt-ie10) .not-animated {
 }
 
 .owl-numbering-default {
-  font: 400 24px "Lato", Helvetica, Arial, sans-serif;
+  font: 400 24px "Roboto", Helvetica, Arial, sans-serif;
   color: #363d41;
   letter-spacing: -.025em;
 }
@@ -41823,7 +41825,7 @@ html:not(.lt-ie10) .not-animated {
 .rd-navbar-fullwidth .rd-navbar-nav>li>a,
 .rd-navbar-static .rd-navbar-nav>li>a,
 .rd-navbar-sidebar .rd-navbar-nav>li>a {
-  font: 700 13px/18px "Lato", Helvetica, Arial, sans-serif;
+  font: 700 13px/18px "robotomedium", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 900;
   letter-spacing: 0.1em;
@@ -41913,7 +41915,7 @@ html:not(.lt-ie10) .not-animated {
   width: 100%;
   padding-left: 0;
   padding-right: 14px;
-  font: 400 14px/24px "Lato", Helvetica, Arial, sans-serif;
+  font: 400 14px/24px "Roboto", Helvetica, Arial, sans-serif;
   letter-spacing: .06em;
   transition: .33s all ease;
 }
@@ -42156,7 +42158,7 @@ html:not(.lt-ie10) .not-animated {
 .rd-navbar-static .rd-megamenu-header,
 .rd-navbar-sidebar .rd-megamenu-header {
   position: relative;
-  font: 700 13px/26px "Lato", Helvetica, Arial, sans-serif;
+  font: 700 13px/26px "Roboto", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   font-weight: 900;
@@ -42915,7 +42917,7 @@ html:not(.lt-ie10) .not-animated {
 }
 
 .rd-navbar-fixed .rd-navbar-nav>li>a {
-  font: 700 14px/24px "Lato", Helvetica, Arial, sans-serif;
+  font: 700 14px/24px "Roboto", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   letter-spacing: .05em;
 }
@@ -42964,7 +42966,7 @@ html:not(.lt-ie10) .not-animated {
 .rd-navbar-fixed .rd-megamenu-list>li>a,
 .rd-navbar-fixed .rd-navbar-dropdown>li>a {
   padding: 11px 56px 10px 16px;
-  font: 400 14px/18px "Lato", Helvetica, Arial, sans-serif;
+  font: 400 14px/18px "Roboto", Helvetica, Arial, sans-serif;
 }
 
 .rd-navbar-fixed .rd-megamenu-list>li+li,
@@ -42977,7 +42979,7 @@ html:not(.lt-ie10) .not-animated {
 }
 
 .rd-navbar-fixed .rd-navbar-megamenu .rd-megamenu-header {
-  font: 400 14px/18px "Lato", Helvetica, Arial, sans-serif;
+  font: 400 14px/18px "Roboto", Helvetica, Arial, sans-serif;
   padding-left: 20px;
   padding-right: 20px;
 }
@@ -46167,6 +46169,18 @@ my-animation-right {
   white-space: nowrap;
 }
 
+.thumbnail-classic-caption2 {
+  position: absolute;
+  top: 80%;
+  left: 15px;
+  right: 15px;
+  z-index: 9;
+  padding: 12px;
+  margin-bottom: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
 
 .grande {
   font-size: 30px;
