@@ -282,6 +282,10 @@
   font-size: calc(50% + 0.5vw + 0.5vh);
 }
 
+.text-responsive100 {
+  font-size: calc(100% + 0.5vw + 0.5vh);
+}
+
 .text-responsive1 {
   font-size: calc(40% + 0.5vw + 0.5vh);
 }
