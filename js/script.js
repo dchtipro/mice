@@ -237,19 +237,19 @@
 			var regularConstraintsMessages = [
 				{
 					type: regula.Constraint.Required,
-					newMessage: "The text field is required."
+					newMessage: "El campo de texto es obligatorio."
 				},
 				{
 					type: regula.Constraint.Email,
-					newMessage: "The email is not a valid email."
+					newMessage: "El correo electrónico no es válido."
 				},
 				{
 					type: regula.Constraint.Numeric,
-					newMessage: "Only numbers are required"
+					newMessage: "Solo se requieren números"
 				},
 				{
 					type: regula.Constraint.Selected,
-					newMessage: "Please choose an option."
+					newMessage: "Por favor, elija una opción."
 				}
 			];
 
@@ -309,7 +309,7 @@
 			if (captchaToken.length === 0) {
 				captcha
 					.siblings('.form-validation')
-					.html('Por favor, prueba que no eres un robot.')
+					.html('*')
 					.addClass('active');
 				captcha
 					.closest('.form-wrap')

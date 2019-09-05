@@ -32,10 +32,12 @@ nav,
 section {
   display: block;
 }
+
 .nopadding {
-   padding: 0 !important;
-   margin: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
 }
+
 body {
   margin: 0;
   font-family: "Roboto", Helvetica, Arial, sans-serif;
@@ -483,6 +485,8 @@ mark,
   max-width: 100%;
   height: auto;
 }
+
+
 
 .img-thumbnail {
   padding: 4px;
@@ -2617,6 +2621,15 @@ textarea.form-control.is-invalid {
   .form-inline .custom-control-label {
     margin-bottom: 0;
   }
+}
+
+.btnn {
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
 }
 
 .btn {
@@ -12082,7 +12095,7 @@ strong {
   max-width: none;
   min-width: 101.5%;
   z-index: -1;
-  opacity: 1;
+  opacity: 10;
 }
 
 .thumbnail-classic .caption {
@@ -19546,6 +19559,8 @@ h5.box-minimal-title+.box-minimal-text {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+
+
 }
 
 .box-item-icon {
@@ -41839,7 +41854,7 @@ html:not(.lt-ie10) .not-animated {
 .rd-navbar-fullwidth .rd-navbar-nav>li>a,
 .rd-navbar-static .rd-navbar-nav>li>a,
 .rd-navbar-sidebar .rd-navbar-nav>li>a {
-  font: 700 13px/18px "robotomedium", Helvetica, Arial, sans-serif;
+  font: 700 16px/18px "hindsemibold", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 900;
   letter-spacing: 0.1em;
@@ -42931,7 +42946,7 @@ html:not(.lt-ie10) .not-animated {
 }
 
 .rd-navbar-fixed .rd-navbar-nav>li>a {
-  font: 700 14px/24px "Roboto", Helvetica, Arial, sans-serif;
+  font: 700 14px/24px "hindsemibold", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   letter-spacing: .05em;
 }
@@ -46146,6 +46161,11 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
     font-size: 10px;
     line-height: 1.16667;
     text-align: center !important;
+  }
+
+  .grande {
+    font-size: 14px !important;
+    font-weight: 10 !important;
   }
 
 }
