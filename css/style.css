@@ -2630,6 +2630,7 @@ textarea.form-control.is-invalid {
   padding: 14px 28px;
   font-size: 16px;
   cursor: pointer;
+  font-family: "hindsemibolg" !important;
 }
 
 .btn {
@@ -46117,13 +46118,13 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 
   25% {
     -o-transform: scale(0.9, 0.9);
-    background: #411ef5;
+    background: #ff7e33;
   }
 
   50% {
     -o-transform: scale(1, 1);
     margin: 0 5px;
-    background: #2c0ad6;
+    background: #a6a9ad;
   }
 
   100% {
@@ -46138,13 +46139,13 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 
   25% {
     -o-transform: scale(0.9, 0.9);
-    background: #411ef5;
+    background: #e88717;
   }
 
   50% {
     -o-transform: scale(1, 1);
     margin: 0 5px;
-    background: #2c0ad6;
+    background: #7a7877;
   }
 
   100% {
