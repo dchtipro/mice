@@ -10418,6 +10418,7 @@ figure {
 
 html p a:hover {
   text-decoration: none;
+  color:hotpink;
 }
 
 body {
@@ -12084,7 +12085,8 @@ strong {
   width: 100%;
   transform: scale(1.08);
   transition: .33s all ease-in-out;
-  z-index: 1;
+  z-index: 1;
+  
 }
 
 .thumbnail-classic img {
