@@ -10418,7 +10418,7 @@ figure {
 
 html p a:hover {
   text-decoration: none;
-  color:hotpink;
+  color: hotpink;
 }
 
 body {
@@ -12085,8 +12085,9 @@ strong {
   width: 100%;
   transform: scale(1.08);
   transition: .33s all ease-in-out;
-  z-index: 1;
-  
+  z-index: 1;
+
+
 }
 
 .thumbnail-classic img {
@@ -16536,6 +16537,11 @@ textarea.form-input {
 .bg-gray-my {
   background: #E7E7E8;
 }
+
+.bg-gris {
+  background: #F5F5F5;
+}
+
 
 .post-boxed-image-container,
 .post-boxed-image-wrap {
@@ -41857,7 +41863,7 @@ html:not(.lt-ie10) .not-animated {
 .rd-navbar-fullwidth .rd-navbar-nav>li>a,
 .rd-navbar-static .rd-navbar-nav>li>a,
 .rd-navbar-sidebar .rd-navbar-nav>li>a {
-  font: 700 16px/18px "hindsemibold", Helvetica, Arial, sans-serif;
+  font: 700 12px/18px "hindbold", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 900;
   letter-spacing: 0.1em;
