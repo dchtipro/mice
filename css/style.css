@@ -437,6 +437,11 @@ small,
   font-weight: 400;
 }
 
+.smallt {
+  font-size: 70%;
+  font-weight: 400;
+}
+
 mark,
 .mark {
   padding: 0.2em;
@@ -16538,6 +16543,10 @@ textarea.form-input {
   background: #E7E7E8;
 }
 
+.bg-grisoscuro {
+  background: #77787A;
+}
+
 .bg-gris {
   background: #F5F5F5;
 }
@@ -22148,6 +22157,8 @@ dt {
 
 .link {
   display: inline-block;
+
+
 }
 
 .link-inline {
@@ -41879,6 +41890,10 @@ html:not(.lt-ie10) .not-animated {
 .rd-navbar-sidebar .rd-navbar-nav>li>a:active,
 .rd-navbar-sidebar .rd-navbar-nav>li>a:focus {
   color: #363d41;
+
+
+
+
 }
 
 .rd-navbar-fullwidth .rd-navbar-nav>li>a:hover,

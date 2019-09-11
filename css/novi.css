@@ -311,6 +311,14 @@
   display: block;
 }
 
+.under {
+  content: '';
+  height: 2px;
+  background: black;
+  display: block;
+  margin-top: 2px;
+}
+
 .text-responsive80 {
   font-size: calc(80% + 0.5vw + 0.5vh);
 }
@@ -334,6 +342,7 @@
 .text-responsive1 {
   font-size: calc(40% + 0.5vw + 0.5vh);
 }
+
 .text-responsive30 {
   font-size: calc(30% + 0.5vw + 0.5vh);
 }
