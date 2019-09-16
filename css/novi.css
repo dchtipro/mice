@@ -122,6 +122,11 @@
   .text-effect {
     font-size: 14px;
   }
+  
+  .thumbnail-classic-caption3 {
+  position: absolute;
+  top: 70%;
+  }
 }
 
 @media only screen and (max-width: 359px) {
@@ -331,6 +336,10 @@
   font-size: calc(60% + 0.5vw + 0.5vh);
 }
 
+.text-responsive70 {
+  font-size: calc(60% + 0.5vw + 0.5vh);
+}
+
 .text-responsive {
   font-size: calc(50% + 0.5vw + 0.5vh);
 }
@@ -344,6 +353,10 @@
 }
 
 .text-responsive30 {
+  font-size: calc(30% + 0.5vw + 0.5vh);
+}
+
+.text-responsive40 {
   font-size: calc(30% + 0.5vw + 0.5vh);
 }
 

@@ -41874,10 +41874,10 @@ html:not(.lt-ie10) .not-animated {
 .rd-navbar-fullwidth .rd-navbar-nav>li>a,
 .rd-navbar-static .rd-navbar-nav>li>a,
 .rd-navbar-sidebar .rd-navbar-nav>li>a {
-  font: 700 12px/18px "hindbold", Helvetica, Arial, sans-serif;
+  font: 700 10px/18px "hindbold", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 900;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.01em;
 }
 
 .rd-navbar-fullwidth .rd-navbar-nav>li>a,
@@ -42466,12 +42466,12 @@ html:not(.lt-ie10) .not-animated {
 }
 
 .rd-navbar-static.rd-navbar-default .rd-navbar-inner {
-  height: 104px;
+  height: 56px;
 }
 
 @media (min-width: 1200px) {
   .rd-navbar-static.rd-navbar-default .rd-navbar-inner {
-    height: 126px;
+    height: 56px;
   }
 
   .rd-navbar-static.rd-navbar-default .rd-navbar-nav>li>.rd-navbar-dropdown,
@@ -46242,7 +46242,7 @@ my-animation-right {
 
 .thumbnail-classic-caption3 {
   position: absolute;
-  top: 70%;
+  top: 80%;
   left: 15px;
   right: 15px;
   z-index: 9;
