@@ -41874,7 +41874,7 @@ html:not(.lt-ie10) .not-animated {
 .rd-navbar-fullwidth .rd-navbar-nav>li>a,
 .rd-navbar-static .rd-navbar-nav>li>a,
 .rd-navbar-sidebar .rd-navbar-nav>li>a {
-  font: 700 10px/18px "hindbold", Helvetica, Arial, sans-serif;
+  font: 700 14px/18px "hindsemibold", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 900;
   letter-spacing: 0.01em;
